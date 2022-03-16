@@ -13,4 +13,4 @@ I also implemented a simple Automatic Feature Selection function which iterative
 
 Next I implemented functions to do a statistical analysis on the feature importance methods. These functions/statistical techinques are:
 1. Variance in feature importance
-2. Empirical P-Values
+2. Empirical P-values
